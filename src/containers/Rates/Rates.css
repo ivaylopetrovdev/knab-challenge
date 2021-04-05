@@ -1,0 +1,13 @@
+.search-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.page-wrapper {
+  display: flex;
+  margin-top: -60px;
+  width: 100%;
+}
